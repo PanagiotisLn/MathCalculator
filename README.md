@@ -1,6 +1,6 @@
 # Overview
 
-I made a simple math calculator
+A simple math calculator
 
 ## Screenshot
 
